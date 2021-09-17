@@ -20,3 +20,6 @@ Walker,  Halliday, and Resnick, Principles of  Physics, 11th edition, John Wiley
 **[11th ed. extended](https://1lib.tw/book/5869883/cdc926)**  
 **[11th ed. extended](https://www.technicalbookspdf.com/download/?file=17553)**  
 
+## 周鶴軒, 蔡惠蓮, 林弘萍：普化（一）(C2-00)
+Chemical Principles 8/e Asia Edition
+[8th ed.](https://1lib.tw/book/2773686/f19fdd)
