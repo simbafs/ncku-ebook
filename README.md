@@ -12,6 +12,8 @@
 lculus (A Complete Course), Robert A. Adams and Christopher Essex, 2018, 9th, 978-0-13-415436-7, Pearson Canada Inc.  
 [6th ed.](https://1lib.tw/book/714686/377782)  
 **[9th ed.](https://1lib.tw/book/3718381/a35066)**  
+### 習題解答
+[6/e (free, pdf)](https://notendur.hi.is/mbh6/html/_downloads/Solutions%20to%20Calculus%20A%20Complete%20Course%20-%20Adams.pdf)
 
 ## 陳則銘：普物（一）(C2-008)
 Walker,  Halliday, and Resnick, Principles of  Physics, 11th edition, John Wiley & Sons, Inc.  
