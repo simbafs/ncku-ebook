@@ -8,23 +8,29 @@
 
 # 大一上
 
-## 賴青瑞：微積分（一）(C2-007)
+## 賴青瑞：微積分（一、二）
 lculus (A Complete Course), Robert A. Adams and Christopher Essex, 2018, 9th, 978-0-13-415436-7, Pearson Canada Inc.  
 [6th ed.](https://1lib.tw/book/714686/377782)  
 **[9th ed.](https://1lib.tw/book/3718381/a35066)**  
 ### 習題解答
 [6/e (free, pdf)](https://notendur.hi.is/mbh6/html/_downloads/Solutions%20to%20Calculus%20A%20Complete%20Course%20-%20Adams.pdf)
 
-## 陳則銘：普物（一）(C2-008)
+## 陳則銘：普物（一、二）
 Walker,  Halliday, and Resnick, Principles of  Physics, 11th edition, John Wiley & Sons, Inc.  
 [10th ed.](https://1lib.tw/book/5535901/8f754e)  
 **[11th ed.](https://1lib.tw/book/5274073/863ccb)**  
 **[11th ed. extended](https://1lib.tw/book/5869883/cdc926)**  
 **[11th ed. extended](https://www.technicalbookspdf.com/download/?file=17553)**  
 
-## 周鶴軒, 蔡惠蓮, 林弘萍：普化（一）(C2-00)
+## 周鶴軒, 蔡惠蓮, 林弘萍, 施良垣：普化（一、二）
 Chemical Principles 8/e Asia Edition  
 [8th ed.](https://1lib.tw/book/2773686/f19fdd)  
 這本書找不到 Asia Edition，以下附上實體書連結  
 [天瓏](https://www.tenlong.com.tw/products/9789814834216)  
 [pchome](https://www.pcstore.com.tw/campub/M60844797.htm)  
+
+## 游輝樟：電磁學（一）
+- Textbook: [Introduction to electrodynamics, David J. Griffiths, 2013, 4th edition](https://1lib.tw/book/5301342/f95bb4)  
+- References: [Field and Wave Electromagnetics, David K. Cheng, 2014, 2nd edition](https://1lib.tw/book/2707554/d501c1)  
+- solution of textbook: [https://1lib.tw/book/552594/f28ff0](https://1lib.tw/book/552594/f28ff0)  
+- solution of reference: [Solution manual Field and Wave Electromagnetics](https://1lib.tw/book/3646031/ed1f2f)  
