@@ -34,3 +34,7 @@ Chemical Principles 8/e Asia Edition
 - References: [Field and Wave Electromagnetics, David K. Cheng, 2014, 2nd edition](https://1lib.tw/book/2707554/d501c1)  
 - solution of textbook: [https://1lib.tw/book/552594/f28ff0](https://1lib.tw/book/552594/f28ff0)  
 - solution of reference: [Solution manual Field and Wave Electromagnetics](https://1lib.tw/book/3646031/ed1f2f)  
+
+## 周忠憲：力學（一）
+- Textbook: [Classical Dynamics of Particles and Systems, Stephen T. Thornton, and Jerry B. Marion, 2008, 5](https://1lib.tw/book/652455/3f0eb1)  
+- Instructor's Solution Manual: [Classical Dynamics of Particles and Systems - Instructor's Solution Manual](https://1lib.tw/book/552595/cd88e0)  
