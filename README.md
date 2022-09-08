@@ -38,3 +38,6 @@ Chemical Principles 8/e Asia Edition
 ## 周忠憲：力學（一）
 - Textbook: [Classical Dynamics of Particles and Systems, Stephen T. Thornton, and Jerry B. Marion, 2008, 5](https://1lib.tw/book/652455/3f0eb1)  
 - Instructor's Solution Manual: [Classical Dynamics of Particles and Systems - Instructor's Solution Manual](https://1lib.tw/book/552595/cd88e0)  
+
+## 蔡孟勳：程設（一）
+- [The C Programming Language](https://github.com/auspbro/ebook-c/blob/master/The.C.Programming.Language.2Nd.Ed%20Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie..pdf)
