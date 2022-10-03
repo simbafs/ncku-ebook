@@ -32,7 +32,7 @@ Chemical Principles 8/e Asia Edition
 ## 游輝樟：電磁學（一）
 - Textbook: [Introduction to electrodynamics, David J. Griffiths, 2013, 4th edition](https://1lib.tw/book/5301342/f95bb4)  
 - References: [Field and Wave Electromagnetics, David K. Cheng, 2014, 2nd edition](https://1lib.tw/book/2707554/d501c1)  
-- solution of textbook: [https://1lib.tw/book/552594/f28ff0](https://1lib.tw/book/552594/f28ff0)  
+- solution of textbook: [https://www.physicsisbeautiful.com/resources/introduction-to-electrodynamics/MJEiSTyXEUcfVXXsVLrpfX/](https://www.physicsisbeautiful.com/resources/introduction-to-electrodynamics/MJEiSTyXEUcfVXXsVLrpfX/)  
 - solution of reference: [Solution manual Field and Wave Electromagnetics](https://1lib.tw/book/3646031/ed1f2f)  
 
 ## 周忠憲：力學（一）
