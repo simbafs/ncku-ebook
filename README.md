@@ -6,13 +6,16 @@
 # 怎麼找書？
 通常書名丟到 Google 都會找的到，但是可能要錢，但都會有 ISBN，記下來。丟去 [https://1lib.tw](https://1lib.tw) 搜尋，這樣可以最快速度找到你要的書。用 ISBN 找事最快的  
 
+> **Warning**  
+> 1ib.tw 因為 zlibrary 被抄家後也一起被抄了（其實他們是一樣的），現在要到 https://singlelogin.me/ 註冊後他會給你一個專屬的網址，在那裡可以下載，所以說下面的連結理論上全部失效了
+
 # 大一上
 
 ## 賴青瑞：微積分（一、二）
 lculus (A Complete Course), Robert A. Adams and Christopher Essex, 2018, 9th, 978-0-13-415436-7, Pearson Canada Inc.  
 [6th ed.](https://1lib.tw/book/714686/377782)  
 **[9th ed.](https://1lib.tw/book/3718381/a35066)**  
-### 習題解答
+### 習題解答https://drive.google.com/file/d/1tpff-VBMGR0hQEjuVfi3jr3oHB6Zu3Co/view?usp=share_link
 [6/e (free, pdf)](https://notendur.hi.is/mbh6/html/_downloads/Solutions%20to%20Calculus%20A%20Complete%20Course%20-%20Adams.pdf)
 
 ## 陳則銘：普物（一、二）
@@ -41,3 +44,8 @@ Chemical Principles 8/e Asia Edition
 
 ## 蔡孟勳：程設（一）
 - [The C Programming Language](https://github.com/auspbro/ebook-c/blob/master/The.C.Programming.Language.2Nd.Ed%20Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie..pdf)
+
+
+# 大二下
+## 游輝樟：數值分析
+[Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press, 2013](https://ia802301.us.archive.org/2/items/c-36_20211010/C36.pdf)
