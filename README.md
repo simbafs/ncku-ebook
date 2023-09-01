@@ -8,6 +8,7 @@
 
 > **Warning**  
 > 1ib.tw 因為 zlibrary 被抄家後也一起被抄了（其實他們是一樣的），現在要到 https://singlelogin.me/ 註冊後他會給你一個專屬的網址，在那裡可以下載，所以說下面的連結理論上全部失效了
+> Update 2023/09/01，又是開學，又要找書，發現上面的連結又被 FBI 抄了，直接去 https://zh.wikipedia.org/wiki/Z-Library 看現在的網域吧
 
 # 大一上
 
