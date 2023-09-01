@@ -4,7 +4,7 @@
 畫粗體字的是教授列的版本，但是我也同時列了其他我找到的版本  
 
 # 怎麼找書？
-通常書名丟到 Google 都會找的到，但是可能要錢，但都會有 ISBN，記下來。丟去 [https://1lib.tw](https://1lib.tw) 搜尋，這樣可以最快速度找到你要的書。用 ISBN 找事最快的  
+通常書名丟到 Google 都會找的到，但是可能要錢，但都會有 ISBN，記下來。丟去 [https://1lib.tw](https://1lib.tw) 搜尋，這樣可以最快速度找到你要的書。用 ISBN 找是最快的  
 
 > **Warning**  
 > 1ib.tw 因為 zlibrary 被抄家後也一起被抄了（其實他們是一樣的），現在要到 https://singlelogin.me/ 註冊後他會給你一個專屬的網址，在那裡可以下載，所以說下面的連結理論上全部失效了
@@ -50,3 +50,10 @@ Chemical Principles 8/e Asia Edition
 # 大二下
 ## 游輝樟：數值分析
 [Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press, 2013](https://ia802301.us.archive.org/2/items/c-36_20211010/C36.pdf)
+
+# 大三上
+## 苗舜培：熱力學 
+[Thermodynamics & an Introduction to Thermostatics](https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Books/allen%20H.B%20-%20Thermodynamics%20And%20An%20Introduction%20To%20Thermostatistics-Wiley%20(1985).pdf)
+
+## 光學：朱淑君
+[OPTics](https://edisciplinas.usp.br/pluginfile.php/5054148/mod_resource/content/1/Hecht-optics-5ed.pdf)
