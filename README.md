@@ -53,14 +53,14 @@ Chemical Principles 8/e Asia Edition
 
 # 大三上
 ## 苗舜培：熱力學 
-[Thermodynamics & an Introduction to Thermostatics](https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Books/allen%20H.B%20-%20Thermodynamics%20And%20An%20Introduction%20To%20Thermostatistics-Wiley%20(1985).pdf)
-[Solution](https://archive.org/details/callensolutionthermodynamics2versionsajjadhashempour238pages/page/n37/mode/2up)
+[Thermodynamics & an Introduction to Thermostatics](https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Books/allen%20H.B%20-%20Thermodynamics%20And%20An%20Introduction%20To%20Thermostatistics-Wiley%20(1985).pdf)  
+[Solution](https://archive.org/details/callensolutionthermodynamics2versionsajjadhashempour238pages/page/n37/mode/2up)  
 
 ## 光學：朱淑君
-[OPTics](https://edisciplinas.usp.br/pluginfile.php/5054148/mod_resource/content/1/Hecht-optics-5ed.pdf)
-[solution 網頁](https://quizlet.com/explanations/textbook-solutions/optics-5th-edition-9780133977226)
-[solution 網頁](https://issuu.com/lisa.gutshall609/docs/solution-manual-for-optics-5th-edition-hecht-01339)
+[OPTics](https://edisciplinas.usp.br/pluginfile.php/5054148/mod_resource/content/1/Hecht-optics-5ed.pdf)  
+[solution 網頁](https://quizlet.com/explanations/textbook-solutions/optics-5th-edition-9780133977226)  
+[solution 網頁](https://issuu.com/lisa.gutshall609/docs/solution-manual-for-optics-5th-edition-hecht-01339)  
 
 ## 量子物理：陳岳男
-[Introduction to Quantum Mechanics](http://wigner.elte.hu/koltai/griffiths_quantum_mechanics_2nd_edition.pdf)
-[solution](https://physicaeducator.files.wordpress.com/2018/01/solutions-of-quantum-mechanics-by-griffith.pdf)
+[Introduction to Quantum Mechanics](http://wigner.elte.hu/koltai/griffiths_quantum_mechanics_2nd_edition.pdf)  
+[solution](https://physicaeducator.files.wordpress.com/2018/01/solutions-of-quantum-mechanics-by-griffith.pdf)  
