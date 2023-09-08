@@ -58,7 +58,9 @@ Chemical Principles 8/e Asia Edition
 # 大三上
 ## 苗舜培：熱力學 
 [Thermodynamics & an Introduction to Thermostatics](https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Books/allen%20H.B%20-%20Thermodynamics%20And%20An%20Introduction%20To%20Thermostatistics-Wiley%20(1985).pdf)  
+兩個解答好像都不是英文 QQ  
 [Solution](https://archive.org/details/callensolutionthermodynamics2versionsajjadhashempour238pages/page/n37/mode/2up)  
+[solution](https://www.academia.edu/70601258/Callen_solutions)  
 
 ## 光學：朱淑君
 [OPTics](https://edisciplinas.usp.br/pluginfile.php/5054148/mod_resource/content/1/Hecht-optics-5ed.pdf)  
