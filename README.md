@@ -61,6 +61,7 @@ Chemical Principles 8/e Asia Edition
 兩個解答好像都不是英文 QQ  
 [Solution](https://archive.org/details/callensolutionthermodynamics2versionsajjadhashempour238pages/page/n37/mode/2up)  
 [solution](https://www.academia.edu/70601258/Callen_solutions)  
+[百度中譯本+詳解](https://pan.baidu.com/s/1b9oUDK)  
 
 ## 光學：朱淑君
 [OPTics](https://edisciplinas.usp.br/pluginfile.php/5054148/mod_resource/content/1/Hecht-optics-5ed.pdf)  
