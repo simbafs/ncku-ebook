@@ -30,6 +30,9 @@ Walker,  Halliday, and Resnick, Principles of  Physics, 11th edition, John Wiley
 ~~**11th ed. extended**~~ 1lib.tw 已失效  
 **[11th ed. extended](https://www.technicalbookspdf.com/download/?file=17553)**  
 
+> Principles of Physics 和 Fundamental of Physics 其實是同一本書，只是因為在美國出版和外國出版名字不一樣，只要版本一樣就可以了。  
+> ![](./fundamental_of_physics.jpg)
+
 ## 周鶴軒, 蔡惠蓮, 林弘萍, 施良垣：普化（一、二）
 Chemical Principles 8/e Asia Edition  
 ~~8th ed.~~ 1lib.tw 已失效  
