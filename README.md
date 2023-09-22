@@ -74,3 +74,6 @@ Chemical Principles 8/e Asia Edition
 ## 量子物理：陳岳男
 [Introduction to Quantum Mechanics](http://wigner.elte.hu/koltai/griffiths_quantum_mechanics_2nd_edition.pdf)  
 [solution](https://physicaeducator.files.wordpress.com/2018/01/solutions-of-quantum-mechanics-by-griffith.pdf)  
+
+## 固態物理：張泰榕
+[The oxford solid state basics, Steven H. Simon, 2013, 1st Edition](https://iusnews.ir/images/upfiles/20170919/The%20Oxford%20Solid%20State%20Basics.pdf)
