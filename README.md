@@ -78,3 +78,6 @@ Chemical Principles 8/e Asia Edition
 ## 固態物理：張泰榕
 [The oxford solid state basics, Steven H. Simon, 2013, 1st Edition](https://iusnews.ir/images/upfiles/20170919/The%20Oxford%20Solid%20State%20Basics.pdf)
 [solution to exercises](https://www.academia.edu/35822651/The_Oxford_Solid_State_Basics_Solutions_to_Exercises)
+
+## 線性代數
+[Linear Algebra and Its Application](http://cscb.vimaru.edu.vn/sites/cscb.vimaru.edu.vn/files/David%20Lay,%20Steven%20Lay,%20Judi%20McDonald%20-%20Linear%20Algebra%20and%20Its%20Applications,%20Global%20Edition-Pearson%20(2021)_0.pdf)
